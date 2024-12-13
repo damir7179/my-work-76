@@ -1,0 +1,36 @@
+.q {
+    border: 10px solid green;
+    width: 60px;
+}
+.w {
+    border: 10px dashed green;
+    width: 60px;
+}
+.e {
+    border: 10px dotted green;
+    width: 60px;
+}
+.r {
+    border: 10px double green;
+    width: 60px;
+}
+.t {
+    border: 10px groove green;
+    width: 60px;
+}
+.y {
+    border: 10px hidden green;
+    width: 60px;
+}
+.u {
+    border: 10px green ridge ;
+    width: 60px;
+}
+.i {
+    border: 10px inset green;
+    width: 60px;
+}
+.o {
+    border: 10px outset green;
+    width: 60px;
+}
